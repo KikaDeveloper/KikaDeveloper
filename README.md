@@ -1,7 +1,8 @@
-##KikaDeveloper
+
+![Banner](Banner.png)
 
 ---
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=KikaDeveloper)
+![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=KikaDeveloper)
 
 ---
 ### Contacts
