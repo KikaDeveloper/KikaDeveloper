@@ -9,9 +9,9 @@ I’m Kirill, a junior .Net developer.
 
 ### GitHub Stats
 
-<img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KikaDeveloper">
+  <img align="center" margin="1" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KikaDeveloper">
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=KikaDeveloper">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=KikaDeveloper">
 
 ---
 
@@ -60,7 +60,7 @@ I’m Kirill, a junior .Net developer.
 <img align="center" style="margin:0.5rem" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
 
 </details>
-
+  
 ---
 
 ### Contacts
