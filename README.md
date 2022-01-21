@@ -1,5 +1,5 @@
 
-![Banner](Banner.png)
+![Banner](Banner.jpg)
 
 Hey there!
 
