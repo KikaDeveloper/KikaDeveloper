@@ -1,9 +1,9 @@
 
 ![Banner](Banner.jpg)
 
-Hey there!
+#### Hey there!
 
-I’m Kirill, a junior .Net developer. 
+#### I’m Kirill, a junior .Net developer. 
 <!-- I make it my mission to translate user-focused designs into pixel-perfect websites or applications that run blazing fast. -->
 ---
 
