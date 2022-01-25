@@ -9,37 +9,35 @@
 
 ### GitHub Stats
 
-  <img align="center" margin="1" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KikaDeveloper">
-
+<div>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KikaDeveloper">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=KikaDeveloper">
+</div>
 
 ---
 
 ### My skills
 
-<!-- c# -->
-<img align="center" style="margin:0.5rem" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
+<div>
+  <!-- c# -->
+  <img align="center" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
 
-<!-- .Net -->
-<img align="center" style="margin:0.5rem" src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white">
+  <!-- .Net -->
+  <img align="center" src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white">
 
-<!-- c++ -->
-<img align="center" style="margin:0.5rem" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+  <!-- c++ -->
+  <img align="center" style="margin:0.5rem" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
 
-<!-- sqlite -->
-<img align="center" style="margin:0.5rem" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white">
+  <!-- sqlite -->
+  <img align="center" style="margin:0.5rem" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white">
 
-<!-- mongoDB -->
-<img align="center" style="margin:0.5rem" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
+  <!-- mongoDB -->
+  <img align="center" style="margin:0.5rem" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
 
-<!-- VS code -->
-<img align="center" style="margin:0.5rem" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
-
-<!-- 
-<img align="center" style="margin:0.5rem" src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white"> -->
-
-<!-- <img align="center" style="margin:0.5rem" src=""> -->
-
+  <!-- VS code -->
+  <img align="center" style="margin:0.5rem" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
+ </div>
+  
 <details>
 <summary>More skills</summary>
 
