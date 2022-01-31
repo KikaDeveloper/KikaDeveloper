@@ -1,22 +1,19 @@
 
 ![Banner](Banner.jpg)
 
-#### Hey there!
+## Hey there!
 
 #### I’m Kirill, a junior .Net developer. 
 <!-- I make it my mission to translate user-focused designs into pixel-perfect websites or applications that run blazing fast. -->
----
 
-### GitHub Stats
+## GitHub Stats
 
 <div align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KikaDeveloper">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=KikaDeveloper">
 </div>
 
----
-
-### My skills
+## My skills
 
 <div>
   <!-- c# -->
@@ -38,7 +35,7 @@
   <img align="center" style="margin:0.5rem" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
  </div>
   
- ##
+##
   
 <details>
 <summary>More skills</summary>
@@ -61,11 +58,9 @@
 
 </details>
   
----
+## Contacts
 
-### Contacts
-
-<div align="center">
+<div>
   
 <!--  Vkontakte  -->
   <a href="https://vk.com/kika2018">
