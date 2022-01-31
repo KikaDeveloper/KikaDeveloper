@@ -78,7 +78,7 @@
   </a>
   
 <!--  Discord  -->
-  <a href="https://vk.com/kika2018">
+  <a href="https://discord.com/">
     <img alt="Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
   </a>
   
