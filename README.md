@@ -1,10 +1,9 @@
 
 ![Banner](Banner.jpg)
 
-## Hey there!
+<h2 align="center"> Hey there! </h2>
 
-#### I’m Kirill, a junior .Net developer. 
-<!-- I make it my mission to translate user-focused designs into pixel-perfect websites or applications that run blazing fast. -->
+<h4 align="center"> I’m Kirill, a junior .Net developer. </h4>
 
 ## GitHub Stats
 
